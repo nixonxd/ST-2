@@ -1,4 +1,4 @@
-// Copyright 2025 UNN-CS Team
+// Copyright 2025 UNN-CS
 #ifndef INCLUDE_CIRCLE_H_
 #define INCLUDE_CIRCLE_H_
 

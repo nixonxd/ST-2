@@ -1,4 +1,4 @@
-// Copyright 2025 UNN-CS Team
+// Copyright 2025 UNN-CS
 #include <gtest/gtest.h>
 
 #include "circle.h"
