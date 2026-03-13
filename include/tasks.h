@@ -11,4 +11,4 @@ std::pair<double, double> calculatePoolCosts(double poolRadius,
                                              double concretePrice,
                                              double fencePrice);
 
-#endif // TASKS_H
+#endif // INCLUDE_TASKS_H_
