@@ -1,9 +1,12 @@
 // Copyright 2025 UNN-CS Team
 #include <gtest/gtest.h>
+
 #include "circle.h"
 #include "tasks.h"
+
 #include <cmath>
 #include <cstdint>
+#include <utility>
 
 const double PI = 3.14159265358979323846;
 const double EPSILON = 1e-10;

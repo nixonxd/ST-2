@@ -1,6 +1,8 @@
 #ifndef INCLUDE_TASKS_H_
 #define INCLUDE_TASKS_H_
 
+#include <utility>
+
 double calculateEarthRopeGap();
 
 std::pair<double, double> calculatePoolCosts(double poolRadius,
